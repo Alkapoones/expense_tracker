@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/expense_tracker/static/css/main.517a7e1f.css",
+    "main.js": "/expense_tracker/static/js/main.ffbcc50b.js",
+    "static/media/FiraSans-Medium.ttf": "/expense_tracker/static/media/FiraSans-Medium.d11d9e14e00fc1a96751.ttf",
+    "static/media/FiraSans-Regular.ttf": "/expense_tracker/static/media/FiraSans-Regular.f4eb295ecc2fb842d61c.ttf",
+    "static/media/Acme-Regular.ttf": "/expense_tracker/static/media/Acme-Regular.f6db4c5c3282b4e95e85.ttf",
+    "index.html": "/expense_tracker/index.html",
+    "main.517a7e1f.css.map": "/expense_tracker/static/css/main.517a7e1f.css.map",
+    "main.ffbcc50b.js.map": "/expense_tracker/static/js/main.ffbcc50b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.517a7e1f.css",
+    "static/js/main.ffbcc50b.js"
+  ]
+}
